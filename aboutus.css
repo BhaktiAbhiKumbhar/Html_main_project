@@ -1,0 +1,21 @@
+.content{
+    display: block;
+    float: left;
+    background-color: #f4f0eb;
+   width: 350px;
+   height: 600px;
+   margin: 20px;
+}
+.content  pre{
+    font-size: larger;
+    background-color:rgb(244, 230, 153);
+    height: 200px;
+    padding-top: 20px;
+    margin: 50px;
+    border: 4px solid red;
+    
+}
+.content_1{
+    display: block;
+    float: left;
+}
